@@ -35,14 +35,22 @@ KNN Classification
 <img width="209" alt="image" src="https://user-images.githubusercontent.com/85515116/123562698-a2f05a80-d76d-11eb-96da-5d2f466f7a11.png">
 
 
-Logistic Regression 
+Logistic Regression and ROC Curve
 
 <img width="246" alt="image" src="https://user-images.githubusercontent.com/85515116/123562708-b13e7680-d76d-11eb-889d-09aeab04a18b.png">
+<img width="234" alt="image" src="https://user-images.githubusercontent.com/85515116/130333312-0a65c826-0ac0-4bb1-a67b-52f14cbd28e2.png">
+
+Random Forest and ROC Curve
+
+<img width="233" alt="image" src="https://user-images.githubusercontent.com/85515116/130333323-39686fc8-faf1-47ab-9fe7-4049aa151d85.png">
+<img width="283" alt="image" src="https://user-images.githubusercontent.com/85515116/130333326-bf002853-4515-4a18-a51f-502e303fbec2.png">
+
+
 
 
 # Conclusions 
 
-From the analysis that I conducted, it can be concluded that race, ethnicity, and length of stay at the hospital may have an impact on the occurrence of a seizure in a patient with COVID-19. However, the statistical significance of each of these variables was very small. The model can help provide healthcare works with information regarding who would be more likely to endure a seizure. It can be used as a preventative measure to assess what resources are needed and where they should be allocated. For future analysis, more data will need to be collected. With such a small data set from a small region of one country, the accuracy of the results is questionable. Also, a decision tree would be a useful addition to this analysis in order to help healthcare workers in decision analysis regarding patient outlook.
+From the analysis that was conducted, it can be concluded that race, ethnicity, and length of stay at the hospital may have an impact on the occurrence of a seizure in a patient with COVID-19. However, the statistical significance of each was very small. The most accurate model created with the logistic regression model. These models can help provide healthcare works with information regarding who would be more likely to endure a seizure. They can be used as a preventative measure to assess what resources are needed and where they should be allocated. For future analysis, more data will need to be collected. With such a small data set from a small region of one country, the accuracy of the results is questionable. 
 
 
 

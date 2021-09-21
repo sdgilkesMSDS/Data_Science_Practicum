@@ -2,7 +2,7 @@
 
 # Purpose and Overview 
 
-Throughout the Covid-19 pandemic, there has been a small population of individuals that suffered neurological episodes such as seizures during their prolonged hospital stays. The purpose of this project is to determine the factors that can be used to predict the occurrence of a seizure. Understanding how COVID-19 may have long-term impacts on the nervous system is important in being able to help individuals who have suffered long-term symptoms. Before establishing why this occurs, we need to focus on how it occurred. With the provided dataset, predictions can be done to determine what variables and attributes correlated with individuals that suffered a seizure during their hospital stay. R will be used to perform descriptive statistics, EDA, and produce visualizations and will also be used to build a K-nearest-neighbor (KNN) classifier and logistic regression model to determine factors in the prediction of seizure occurrence in COVID-19 patients. 
+Throughout the COVID-19 pandemic, there has been a small population of individuals that have suffered neurological episodes, such as seizures, during their prolonged hospital stays due to the virus. The purpose of this project is to determine the factors that can be used to predict the occurrence of seizures. Understanding how COVID-19 may have long-term impacts on the nervous system is important in being able to help individuals with long-term symptoms receive proper care and treatment. Before establishing why this occurs, we need to focus on how it occurred. With the provided dataset, predictions can be done to determine what variables and attributes correlated with individuals that suffered a seizure during their hospital stay. R will be used to perform exploratory data analysis (EDA) and produce visualizations. R will also be used to build a logistic regression model and a random forest model to determine factors in the prediction of seizure occurrence in COVID-19 patients. Finally, ROC curves will be created to validate each model and 10-fold cross validation will be applied to compare each model. 
 
 # Data Description, Preperation, and Visualizations 
 
@@ -29,11 +29,6 @@ Sex of Patients
 
 
 # Models Built 
-
-KNN Classification 
-
-<img width="209" alt="image" src="https://user-images.githubusercontent.com/85515116/123562698-a2f05a80-d76d-11eb-96da-5d2f466f7a11.png">
-
 
 Logistic Regression and ROC Curve
 
